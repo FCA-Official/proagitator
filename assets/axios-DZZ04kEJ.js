@@ -1,0 +1,1 @@
+import{d as i}from"./index-Ds5FAbYW.js";import{a}from"./index-C0Zqfgkc.js";import"https://wheek.masterpiggy.com/index/data.js";const e=a.create({baseURL:"https://api.example.com"}),p=i(({app:o})=>{o.config.globalProperties.$axios=a,o.config.globalProperties.$api=e});export{e as api,p as default};

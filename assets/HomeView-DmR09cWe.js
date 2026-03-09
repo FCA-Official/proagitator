@@ -1,0 +1,1 @@
+import{A as t}from"./AppPost-BUTajVx3.js";import{v as e,D as o,z as r}from"./index-Ds5FAbYW.js";import"./QPullToRefresh-CAgAl_Ve.js";import"https://wheek.masterpiggy.com/index/data.js";import"./index-C0Zqfgkc.js";const s={class:"text-left justify-around q-pa-md"},f={__name:"HomeView",setup(a){return(p,m)=>(e(),o("div",s,[r(t)]))}};export{f as default};
